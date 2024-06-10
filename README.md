@@ -9,11 +9,7 @@
 </p>
 
 ## Desing: 
-* Desktop:
-[<p align="center"><img height="400em" src="./src/design/desktop-design.png" alt="Projeto Spiderman Slider - Versão Desktop">](https://matias-ezequiel-correa.github.io/projeto-spiderman-slider/)<p>
-
-* Mobile:
-[<p align="center"><img width=250 src="./src/design/projeto-spiderman-slider.png" alt="Projeto  Spiderman Slider - Versão Mobile">](https://matias-ezequiel-correa.github.io/projeto-spiderman-slider/)<p>
+[<p align="center"><img height="400em" src="./src/design/desktop-design.png" alt="Projeto X-devs - Versão Desktop">](https://matias-ezequiel-correa.github.io/projeto-spiderman-slider/)<p>
 
 ### 🔗 Link do Projeto: <a href="https://matias-ezequiel-correa.github.io/projeto-spiderman-slider/" target="_blank">matias-ezequiel-correa.github.io/projeto-spiderman-slider/</a>
 
